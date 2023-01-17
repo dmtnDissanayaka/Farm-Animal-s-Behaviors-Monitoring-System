@@ -1,2 +1,3 @@
 # Farm-Animal-s-Behaviors-Monitoring-System
 Iot and Web Apllication
+Large numbers of animals are bred throughout Sri Lanka for a variety of reasons therefore; large scale animal farms are maintained throughout Sri Lanka. Some are carried out on a large scale and some are carried out on a small scale. The animals on these farms are exposed to various diseases at different times. In such cases it is essential to identify the infected animals quickly, as other animals on the farm may also be infected. These farms are home to a variety of animals and should protect them very carefully, because they are behaviors are different.
